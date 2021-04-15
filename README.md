@@ -1,7 +1,7 @@
 # Postgram
 > An instagram clone app for learning purposes
 
----
+----
 
 ### Table of Contents
 
