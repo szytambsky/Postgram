@@ -1,5 +1,5 @@
 # Postgram
-> An instagram clone app for learning purposes
+> An instagram clone app for learning purposes, to be continued...
 
 ----
 
